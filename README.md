@@ -7,6 +7,4 @@ Accordingly, the user can take necessary action.
 The runtime and the loading time is completely based on the official website server.
 ![Screenshot_20230919_003427](https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/eadc9507-06c9-4397-b45d-00f2030d70dd)
 ![Screenshot_20230918_180757](https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/bd72f5b8-d5e4-4dbf-bc4e-83c6fd0dee56)
-<img src="https://your-image-url.type](https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/18c385f4-322f-4e0d-a0fa-010a765f9118)https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/18c385f4-322f-4e0d-a0fa-010a765f9118" width="200" height="500">
-
-
+<img src="https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/18c385f4-322f-4e0d-a0fa-010a765f9118)https://github.com/Smustafa8152/MLRITM-Hyderabad-Attendance-Tracking-Application/assets/126283271/18c385f4-322f-4e0d-a0fa-010a765f9118" width="200" height="500">
